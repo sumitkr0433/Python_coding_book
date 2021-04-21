@@ -1,0 +1,12 @@
+DEBUG:root:Debug Information
+INFO:root:info Information
+WARNING:root:warning Information
+ERROR:root:error Information
+CRITICAL:root:critical Information
+DEBUG:parso.cache:pickle loaded: /home/admin1/anaconda3/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+DEBUG:parso.cache:pickle loaded: /home/admin1/anaconda3/lib/python3.7/typing.py
+DEBUG:parso.cache:pickle loaded: /home/admin1/anaconda3/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+DEBUG:parso.cache:pickle loaded: /home/admin1/anaconda3/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+DEBUG:parso.cache:pickle loaded: /home/admin1/anaconda3/lib/python3.7/site-packages/jedi/api/interpreter.py
+DEBUG:parso.cache:pickle loaded: /home/admin1/anaconda3/lib/python3.7/site-packages/IPython/core/autocall.py
+DEBUG:parso.cache:pickle loaded: /home/admin1/anaconda3/lib/python3.7/site-packages/IPython/core/interactiveshell.py
